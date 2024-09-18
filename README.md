@@ -2,6 +2,7 @@
 
 🎓 **Engineering Student in Computer Networks and Telecommunications**  
 📍 Tunis, Tunisia  
+📧 wajdi.mansour@insat.ucar.tn  
 📧 mansourwajdi1@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/wajdi-mansour-b52b461ba) | [GitHub](https://github.com/Mansour-Wajdi)
 
